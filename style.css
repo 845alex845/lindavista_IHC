@@ -1,0 +1,71 @@
+h1,
+h5 {
+    color: #1877dd;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+li {
+    background-color: #f8ee5f;
+    margin-bottom: 2px;
+    margin-left: 0;
+}
+
+.lindavista {
+    background-color: #f8ee5f;
+    display: flex;
+    justify-content: center;
+}
+
+.title-linda {
+    line-height: 1;
+}
+
+.icon {
+    width: 60px;
+    height: 60px;
+}
+
+.title {
+    width: 50%;
+}
+
+.description {
+    width: 100%;
+    resize: none;
+    border: 1px solid transparent;
+}
+
+.desc-title {
+    font-size: 1.05em;
+    font-weight: 600;
+}
+
+.photo {
+    width: 100px;
+    height: 100px;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    box-shadow: 1px 2px 3px 3px #000;
+}
+
+.notice {
+    height: 100px;
+    width: 120px;
+}
+
+.notice-area {
+    border: 2px #404a69 dashed;
+}
+
+.notice-title {
+    color: #404A69;
+    font-size: 1.6em;
+    font-weight: 600;
+}
+
+ul {
+    list-style: none;
+}
