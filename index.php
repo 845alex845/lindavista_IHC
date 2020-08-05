@@ -13,7 +13,7 @@
     <header class="container-fluid lindavista">
         <div class="d-flex container align-items-center title">
             <div class="mr-5">
-                <img src="img/img1.jpg" class="border  icon" alt="imagen1">
+                <img src="img/img1.jpg" class="border  icon" alt="imagen1dasa asd asd asd" >
             </div>
             <div class="title-linda">
                 <h1>Lindavista</h1>
@@ -43,7 +43,7 @@
                         </p>
                     </div>
                 </div>
-                <img src="img/img1.jpg" class="col-3 notice" alt="imagen2">
+                <img src="img/img1.jpg" class="col-3 notice" alt="imagen2 adasdad dsa">
             </div>
             <div class="row align-items-center notice-area mt-3 py-2 justify-content-center">
                 <div class="col-7">
@@ -54,14 +54,14 @@
                         </p>
                     </div>
                 </div>
-                <img src="img/img1.jpg" class="col-3 notice" alt="imagen3">
+                <img src="img/img1.jpg" class="col-3 notice" alt="imagen3 adsa asda dad da">
             </div>
         </section>
         <section class="col-2 d-flex flex-column align-items-center">
-            <img src="img/img1.jpg" class=" photo mb-2" alt="imagen4">
-            <img src="img/img1.jpg" class=" photo mb-2" alt="imagen5">
-            <img src="img/img1.jpg" class=" photo mb-2" alt="imagen6">
-            <img src="img/img1.jpg" class=" photo mb-2" alt="imagen7">
+            <img src="img/img1.jpg" class=" photo mb-2" alt="imagen4 adsa asda dad da">
+            <img src="img/img1.jpg" class=" photo mb-2" alt="imagen5 adsa asda dad da">
+            <img src="img/img1.jpg" class=" photo mb-2" alt="imagen6 adsa asda dad da">
+            <img src="img/img1.jpg" class=" photo mb-2" alt="imagen7 adsa asda dad da">
         </section>
     </main>
     <footer>
