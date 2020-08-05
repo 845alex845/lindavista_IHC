@@ -58,9 +58,9 @@
             </div>
         </section>
         <section class="col-2 d-flex flex-column align-items-center">
-            <img src="img/img1.jpg" class=" photo mb-2" alt="imagen4 adsa asda dad da">
-            <img src="img/img1.jpg" class=" photo mb-2" alt="imagen5 adsa asda dad da">
-            <img src="img/img1.jpg" class=" photo mb-2" alt="imagen6 adsa asda dad da">
+            <img src="img/img1.jpg" class=" photo mb-2" alt="imagen4 adsa asda dad da" longdesc="FAAASDASD adasdsadsadas">
+            <img src="img/img1.jpg" class=" photo mb-2" alt="imagen5 adsa asda dad da" longdesc="FAAASDASD dadasdasdasd">
+            <img src="img/img1.jpg" class=" photo mb-2" alt="imagen6 adsa asda dad da" longdesc="FAAASD dasdasdas asdasdasdASD">
             <img src="img/img1.jpg" class=" photo mb-2" alt="imagen7 adsa asda dad da">
         </section>
     </main>
